@@ -1,7 +1,12 @@
 # Welcome to Decentralized payment
-
-D-Pay is a unified payment getaway that gives us a seamless, secure and decentralise gateway with end-to-end analytics.
+A decentralized multichain payment gateway mechanism refers to a system that enables the seamless transfer of value across multiple blockchain networks in a decentralized manner. It acts as a bridge between different blockchain platforms, allowing users to transact using various cryptocurrencies or tokens.
+D-Pay is a unified payment getaway that gives us a seamless, secure, and decentralize gateway with end-to-end analytics.
 Let's have one [live Demo](https://bafybeiafh7aqvx26ca4it7qm227uxw7zkhqo37asoa2q2526j2quost3fe.ipfs.gateway.valist.io/#/)
+
+# Problem statement
+For any B2C business, to receive a payment of any type, some form of gateway is required. But all the service providers are completely centralized and always track all the transactions. That is happening in the business.
+
+To reduce this hassle, dePay plays a key role to get transactions completed without any central authority to confirm or track the transactions. These centralized systems have complete data from their users to their requirements and the data of the business itself.
 
 ## How to clone repository and make changes locally
 
@@ -27,12 +32,5 @@ Let's have one [live Demo](https://bafybeiafh7aqvx26ca4it7qm227uxw7zkhqo37asoa2q
   git checkout -b <name of new branch>
 ```
 
-- Open the file `index.html`
-- Open images file and add your photo
-
-- #### Add your name linkedin or other url according to the code please read it carefully.
-
-- For example ,
-  `- <div class="contentBx"> <h4>Sahitya Roy</h4> <h5>Founder Of Eduhub community</h5> </div> <div class="sci"> <a href="https://linkedin.com/in/sahitya-roy-244b941a2/"><i class="fa fa-linkedin" aria-hidden="true"></i></a> <a href="https://twitter.com/SahityaRoy07"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://www.youtube.com/channel/UCqXTIC8hmyigUtYGVykQsug"><i class="fa fa-youtube" aria-hidden="true"></i></a> </div> </div> </div>`
 
 - Stage your changes
