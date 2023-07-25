@@ -1,4 +1,4 @@
-# Welcome to Decentralized payment
+# Welcome to Decentralized payment ( Chain agnostic)
 A decentralized multichain payment gateway mechanism refers to a system that enables the seamless transfer of value across multiple blockchain networks in a decentralized manner. It acts as a bridge between different blockchain platforms, allowing users to transact using various cryptocurrencies or tokens.
 D-Pay is a unified payment getaway that gives us a seamless, secure, and decentralize gateway with end-to-end analytics.
 Let's have one [live Demo](https://bafybeiafh7aqvx26ca4it7qm227uxw7zkhqo37asoa2q2526j2quost3fe.ipfs.gateway.valist.io/#/)
